@@ -1,3 +1,4 @@
+print('i am') 
 import time
 import math
 from multiprocessing import Pool, cpu_count
@@ -47,6 +48,6 @@ def main():
     print("---------------------------------------------")
     print("\n(Una puntuación más alta indica un mejor rendimiento de la CPU)")
 
-
+# test de cpu
 if __name__ == '__main__':
     main()
