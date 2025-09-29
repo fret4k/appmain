@@ -49,5 +49,6 @@ def main():
     print("\n(Una puntuación más alta indica un mejor rendimiento de la CPU)")
 
 # test de cpu
+# Ejecutar la función principal
 if __name__ == '__main__':
     main()
