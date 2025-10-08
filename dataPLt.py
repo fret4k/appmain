@@ -8,6 +8,6 @@ plt.xlabel('Tamaño de la matriz')
 plt.ylabel('Tiempo (s)')
 plt.title('Rendimiento de la CPU')
 #plt.grid()
-plt.savefig('mpl_performance.png')
+plt.savefig('mpl_performance1.png')
 #plt.show()
 
